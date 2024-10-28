@@ -10,8 +10,14 @@ In this context, predictive analytics emerges as a powerful tool for financial d
 ## Objective
 To develop a machine learning model that predicts short-term stock price movements, specifically whether a user should buy or sell shares of a particular stock based on historical price data.
 
-## Data Collection
+## Skills and Programs Used
+- Python
+- Postgres SQL
+- Streamlit
+- Tensor Flow
 
+
+## Data Collection
 We used data for Google, Microsoft, IBM, and Amazon from 1st January 2020 to 1st January 2024, totaling 1003 rows of data, which included:
 
 - Date
