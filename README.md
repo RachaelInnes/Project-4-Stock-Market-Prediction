@@ -26,3 +26,7 @@ Once data was uploaded and tables successfully created the preparation had been 
 
 ## Visualisation
  A line graph was plotted using Matplot lib to plot the data of each company from 2020 to    2023 this was just to get a visual on the data.   
+
+
+
+ 
