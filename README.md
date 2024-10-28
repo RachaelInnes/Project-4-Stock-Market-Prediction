@@ -1,6 +1,5 @@
 
 
-
 ## TITLE: Group 4 Project, Stock Price Prediction, to buy or sell ?
 
 ## Introduction
