@@ -15,6 +15,8 @@ To develop a machine learning model that predicts short-term stock price movemen
 - Postgres SQL
 - Streamlit
 - Tensor Flow
+- Random Forest Classifier
+  
 
 
 ## Data Collection
