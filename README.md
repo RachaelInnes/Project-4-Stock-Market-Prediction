@@ -15,12 +15,12 @@ We used historical data from Yahoo.finance https://au.finance.yahoo.com/quote/GO
 
 We utilised an application called “yfinance”, this meant that we didn’t need to download all of the individual historical csv files, by utilising code in Python, we could simply define the “Ticker’ names and the start and end dates for data and it would save collate and save this as one csv file. 
 
-We used data for – Google, Microsoft, IBM and Amazon from 1st January, 2020 to 1st January, 2024, 1003 rows of data and included:
+We used data for Google, Microsoft, IBM, and Amazon from 1st January 2020 to 1st January 2024, totaling 1003 rows of data, which included:
 
--Date
--Open and Close Price
--Volume of Shares
--High and Low share prices for the day
+Date
+Open and Close Price
+Volume of Shares
+High and Low share prices for the day
 
 
 ## Data Cleaning
