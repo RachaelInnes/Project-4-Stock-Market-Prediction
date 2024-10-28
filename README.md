@@ -1,6 +1,6 @@
 
 
-## TITLE: Group 4 Project, Stock Price Prediction, to buy or sell ?
+## TITLE: Group 4 Project, Stock Price Prediction, to Buy or Sell ?
 
 ## Introduction
 Stock trading plays a crucial role in the global economy, offering investors opportunities to grow their wealth and achieve financial goals. However, the stock market is inherently volatile and unpredictable, posing significant challenges for investors striving to make informed decisions. Factors such as market trends, economic indicators, and geopolitical events can all influence stock prices, making it difficult to predict future movements accurately.
