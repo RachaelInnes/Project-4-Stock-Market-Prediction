@@ -16,7 +16,7 @@ To develop a machine learning model that predicts short-term stock price movemen
 - Streamlit
 - Tensor Flow
 - Random Forest Classifier
-  
+- yFinance (Python Library)
 
 
 ## Data Collection
